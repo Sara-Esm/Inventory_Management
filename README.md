@@ -1,4 +1,4 @@
-# **Intelligent Inventory Management for Retail - Walmart Sales Forecasting**
+# **Inventory Management for Retail - Walmart Sales Forecasting**
 
 ## **Overview**
 This project focuses on building a machine learning model to predict **retail sales** for Walmart stores, enabling **intelligent inventory management**. By forecasting sales, we can optimize stock levels, reducing overstock and stockouts, thus improving the efficiency of inventory operations.
